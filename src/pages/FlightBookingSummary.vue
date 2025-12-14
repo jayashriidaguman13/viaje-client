@@ -180,7 +180,7 @@ const continueToPayment = () => {
   width: 90%;
   max-width: 1000px; 
   margin: 0 auto;
-  padding: 0 15px; y */
+  padding: 0 15px;
 }
 
 .page-title {
@@ -194,7 +194,7 @@ const continueToPayment = () => {
 
 .page-subtitle {
   font-family: 'Inter', sans-serif;
-  font-size: 14px; /
+  font-size: 14px; 
   font-weight: 600;
   color: #1A1A1A;
   line-height: 1;
